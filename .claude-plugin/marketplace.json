@@ -1,0 +1,29 @@
+{
+  "name": "formularios-comite-sindicatos-y-convenios",
+  "owner": {
+    "name": "Derecho Virtual",
+    "url": "https://jurisprudenciator.lexiaipro.org"
+  },
+  "metadata": {
+    "description": "Representantes de los trabajadores, sindicatos y convenios · España (14 formularios). Para las relaciones colectivas: información y consulta a los representantes de los trabajadores, elecciones sindicales y su impugnación, garantías de los representantes, secciones sindicales, negociación de convenios y acuerdos de empresa, inaplicación del convenio y huelga. Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+    "version": "1.1.0"
+  },
+  "plugins": [
+    {
+      "name": "formularios-comite-sindicatos-y-convenios",
+      "source": "./",
+      "description": "Representantes de los trabajadores, sindicatos y convenios · España (14 formularios). Para las relaciones colectivas: información y consulta a los representantes de los trabajadores, elecciones sindicales y su impugnación, garantías de los representantes, secciones sindicales, negociación de convenios y acuerdos de empresa, inaplicación del convenio y huelga. Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+      "version": "1.1.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "laboral",
+        "representacion-y-negociacion-colectiva"
+      ]
+    }
+  ]
+}
